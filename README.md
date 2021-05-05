@@ -1,5 +1,5 @@
-# Hi👋 & Welcome!
-Here, you will find some valiant attempts at expanding the mighty tech toolbelt. 
+# Hi👋 
+Welcome! Here, you will find some valiant attempts at expanding the mighty tech toolbelt. 
 
 # About
 I am currently in my second year of biomedical engineering at the University of Waterloo.
