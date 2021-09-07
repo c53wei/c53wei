@@ -1,5 +1,5 @@
 # Hi👋 
-Welcome! Here, you will find some valiant attempts at expanding the mighty tech toolbelt. 
+Welcome! 
 
 # About
 I have recently completed my second year of biomedical engineering at the University of Waterloo.
