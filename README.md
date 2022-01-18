@@ -2,7 +2,7 @@
 Welcome! 
 
 # About
-I have recently completed my second year of biomedical engineering at the University of Waterloo.
+I am currently in my third year of biomedical engineering at the University of Waterloo.
 Over the course of my undergraduate studies, I am interested in the application of computational biochemistry 
 & wearable robotics to improve accessibility in healthcare🩺
 
