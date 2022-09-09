@@ -2,7 +2,8 @@
 Welcome! 
 
 # About
-I am wrapping up my third year as a biomedical engineering student at the University of Waterloo! Currently, I am on an exchange term at University College London as an affiliate in the mechanical engineering program so if you have any sightseeing or food recommendations, please let me know :D
+To wrap my third year as a biomedical engineering student at the Unviversity of Waterloo, I am currently on exchange in England🏴󠁧󠁢󠁥󠁮󠁧󠁿! I am an affiliate with the mechanical engineering department at University College London and I will be here until the end of 2022 (very excited to experience a true London Holiday season). If you have any sightseeing or food recommendations, please do let me know :D
+
 
 Over the course of my undergraduate studies, I am interested in the application of computational biochemistry 
 & wearable robotics to improve accessibility in healthcare🩺. 
