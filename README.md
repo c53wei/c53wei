@@ -2,12 +2,12 @@
 Welcome! 
 
 # About
-I am currently in my third year of biomedical engineering at the University of Waterloo.
-Over the course of my undergraduate studies, I am interested in the application of computational biochemistry 
-& wearable robotics to improve accessibility in healthcare🩺
+I am wrapping up my third year as a biomedical engineering student at the University of Waterloo! Currently, I am on an exchange term at University College London as an affiliate in the mechanical engineering program so if you have any sightseeing or food recommendations, please let me know :D
 
-In my freetime, you can find me exploring the great outdoors🏕, trying samples at Costco🍟, 
-or if it's a rainy day–curled up with a book🤓!
+Over the course of my undergraduate studies, I am interested in the application of computational biochemistry 
+& wearable robotics to improve accessibility in healthcare🩺. 
+
+Sometime next year, I'm hoping to run my very first half marathon–most days you can find me either training for that or recovering with lots of ice🏃‍♀️. In my freetime, I'm usually reading or secretly reviewing restaurants–all before an 8 PM bedtime of course.
 
 # Contact 
 I am always open to opportunities for collaboration or a coffee chat so feel free to shoot me a message at clare.wei@uwaterloo.ca or on [LinkedIn](https://www.linkedin.com/in/clare-wei/)!
